@@ -1,0 +1,43 @@
+hola
+hola
+hola
+hola
+hola
+....
+hole 2
+hole 2
+hole 2
+hole 2
+hole 2
+....
+hola 3
+hola 3 
+hola 3
+hola 3
+hola 3
+.....
+<<<<<<< HEAD
+hole 4
+hole 4
+hole 4
+hole 4
+hole 4
+.....
+hola 5
+hola 5
+hola 5
+hola 5
+hola 5
+=======
+Adios 1 
+Adios 1
+Adios 1
+Adios 1
+Adios 1
+.....
+Bye 2
+Bye 2
+Bye 2
+Bye 2
+Bye 2
+>>>>>>> cabecera
