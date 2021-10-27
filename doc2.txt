@@ -41,4 +41,5 @@ Adios 2
 Adios 2
 Adios 2
 >>>>>>> cabecera
- practicando subiendo un archivo de actualizacion
+ practicando subiendo un archivo de actualizacion.
+tmr_2
