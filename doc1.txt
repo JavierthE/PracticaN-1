@@ -42,4 +42,4 @@ Bye 2
 Bye 2
 >>>>>>> cabecera
 Hola que tal, como estan
-Hola, este es un cambio para ver si funciona correctamente la url con SSH
+Hola, este es un cambio para ver si funciona correctamente la url con SSH, y parece que no funciona
