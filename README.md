@@ -9,6 +9,6 @@ Primeros pasos en Git-GitHub
 Tengo un poco de miedo, la verdad,[Platzi](http://platzi.com "Platzi") 
 1. Pero, vamos a seguir.
 2. Pero seguimos nomas, que podria pasar
-# Bamos a probar
+# Vamos a probar
 ## Seguimos probando
 ###### Seguimos pro
